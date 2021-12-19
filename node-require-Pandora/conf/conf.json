@@ -1,0 +1,13 @@
+{
+    "pandora": {
+        "port": "6500",
+        "log": {
+            "maxSize": "1232000",
+            "logPath": "./logs/log_file.log",
+            "logBkPath": "./logs/log_file_bk.log"
+        },
+        "coreHouse":{
+            "path": "127.0.0.1"
+        }
+    }
+}

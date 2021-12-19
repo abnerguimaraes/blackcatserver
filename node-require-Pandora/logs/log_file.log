@@ -1,0 +1,60 @@
+2021/12/19 - 18:40 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 18:40 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 18:40 [WARN] - KoalaModule.js - Preparing the server to listen a port
+2021/12/19 - 18:42 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 18:42 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 18:42 [WARN] - KoalaModule.js - Preparing the server to listen a port
+2021/12/19 - 18:43 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 18:43 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 18:43 [WARN] - KoalaModule.js - Preparing the server to listen a port 6500
+2021/12/19 - 18:44 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 18:44 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 18:44 [WARN] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 18:49 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 18:49 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 18:49 [WARN] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 18:53 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 18:53 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 18:53 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 18:53 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /
+2021/12/19 - 18:59 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 18:59 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 18:59 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 18:59 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to / +++++ undefined
+2021/12/19 - 18:59 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 18:59 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 18:59 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 18:59 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to / +++++ undefined
+2021/12/19 - 18:59 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to / +++++ undefined
+2021/12/19 - 18:59 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to / +++++ undefined
+2021/12/19 - 18:59 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to / +++++ undefined
+2021/12/19 - 18:59 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to / +++++ undefined
+2021/12/19 - 18:59 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to / +++++ undefined
+2021/12/19 - 18:59 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to / +++++ undefined
+2021/12/19 - 18:59 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to / +++++ undefined
+2021/12/19 - 18:59 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to / +++++ undefined
+2021/12/19 - 18:59 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to / +++++ undefined
+2021/12/19 - 18:59 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to / +++++ undefined
+2021/12/19 - 19:02 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 19:02 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 19:02 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 19:02 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to / +++++ [object Object]
+2021/12/19 - 19:02 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 19:02 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 19:02 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 19:02 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to / +++++ [object Object]
+2021/12/19 - 19:03 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 19:03 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 19:03 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 19:03 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to / +++++ {"host":"localhost:6500","user-agent":"insomnia/2021.5.3","abner":"\"thiago\"","accept":"*/*"}
+2021/12/19 - 19:03 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to / +++++ {"host":"127.0.0.1:6500","user-agent":"insomnia/2021.5.3","abner":"\"thiago\"","accept":"*/*"}
+2021/12/19 - 19:09 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 19:09 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 19:09 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 19:09 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /
+2021/12/19 - 19:09 [ERROR] - Pandora.KoalaModule.requestResponse(): client was trying to do a GET request, we kick him out
+2021/12/19 - 19:10 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 19:10 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 19:10 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 19:10 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /
+2021/12/19 - 19:10 [ERROR] - Pandora.KoalaModule.requestResponse(): client was a bad kittie trying to do a GET request, I scrach him out

@@ -1,20 +1,27 @@
 {
   "name": "blackcatserver",
   "version": "1.0.0",
-  "description": "Servidor Web",
+  "description": "Simple Node Server",
   "main": "main.js",
   "scripts": {
-    "start": "nodemon src/main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Abner Guimarães",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abnerguimaraes/blackcat.git"
+  },
+  "keywords": [
+    "web",
+    "node",
+    "server"
+  ],
+  "author": "Abner Guimaraes",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/abnerguimaraes/blackcat/issues"
+  },
+  "homepage": "https://github.com/abnerguimaraes/blackcat#readme",
   "dependencies": {
-    "body-parser": "^1.19.1",
-    "consign": "^0.1.6",
-    "express": "^4.17.1",
-    "mysql": "^2.18.1",
-    "mysql2": "^2.3.3",
-    "nodemon": "^2.0.15"
+    "mysql2": "^2.3.3"
   }
 }

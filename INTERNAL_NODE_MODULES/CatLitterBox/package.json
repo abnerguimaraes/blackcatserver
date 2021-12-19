@@ -1,0 +1,21 @@
+{
+  "name": "CatLitterBox",
+  "version": "1.0.0-rc1 (2021-12-17)",
+  "description": "Simple Logger",
+  "homepage": "TODO",
+  "main": "src/CatLitterBox.js",
+  "keywords": [
+    "logger"
+  ],
+  "license": "GPL3",
+  "author": {
+    "name": "Abner Guimarães",
+    "url": "https://abner-curriculo.web.app/"
+  },
+  "files": [
+    "src/CatLitterBox.js",
+
+    "src/DataFormatter.js",
+    "src/ChangeOutputFile.js"
+  ]
+}
