@@ -10,8 +10,13 @@ function Pandora(pussyObj) {
 
     this.logger.info(`Pandora.js - The cat is waking up`);
 
+    const Routes = require("./RoutesLoader");
+    let routes = new Routes(pussyObj);
+    this.routes = routes.getRoutes();
+    routes = null;
+
     const KoalaModule = require("./KoalaModule");
-    let koalaModule = new KoalaModule(pussyObj);
+    let koalaModule = new KoalaModule(pussyObj, this.routes);
     this.koalaModule = koalaModule;
     koalaModule = null;
 

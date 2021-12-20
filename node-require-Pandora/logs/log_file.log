@@ -58,3 +58,206 @@
 2021/12/19 - 19:10 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
 2021/12/19 - 19:10 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /
 2021/12/19 - 19:10 [ERROR] - Pandora.KoalaModule.requestResponse(): client was a bad kittie trying to do a GET request, I scrach him out
+2021/12/19 - 19:44 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 19:44 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 19:44 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 19:50 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 19:50 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 19:50 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: 
+2021/12/19 - 19:50 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 19:50 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 19:50 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: 
+2021/12/19 - 19:50 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 19:51 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 19:51 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 19:53 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 19:53 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 19:53 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/19 - 19:53 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 19:53 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /
+2021/12/19 - 19:53 [ERROR] - Pandora.KoalaModule.requestResponse(): Client was a bad kittie trying to do a GET request, I scrached him away!
+2021/12/19 - 19:57 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 19:57 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 19:57 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/19 - 19:57 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 19:58 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 19:58 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 19:58 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/19 - 19:58 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 19:58 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port [object Object]
+2021/12/19 - 19:58 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 19:58 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port {"VERSION":"2021-12-19"}
+2021/12/19 - 19:58 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 19:58 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 19:58 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/19 - 19:59 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 19:59 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port ["NotFound.js"]
+2021/12/19 - 19:59 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/19 - 19:59 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 19:59 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 20:00 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 20:00 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port ["NotFound.js"]
+2021/12/19 - 20:00 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/19 - 20:00 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 20:00 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 20:02 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 20:02 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 20:02 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/19 - 20:02 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port ["NotFound.js"]
+2021/12/19 - 20:02 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 20:15 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 20:15 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 20:15 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/19 - 20:15 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 20:15 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /
+2021/12/19 - 20:15 [ERROR] - Pandora.KoalaModule.requestResponse(): Client was a bad kittie trying to do a GET request, I scrached him away!
+2021/12/19 - 20:15 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /
+2021/12/19 - 20:15 [ERROR] - Pandora.KoalaModule.requestResponse(): Client was a bad kittie trying to do a GET request, I scrached him away!
+2021/12/19 - 20:15 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /
+2021/12/19 - 20:15 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /
+2021/12/19 - 20:15 [ERROR] - Pandora.KoalaModule.reqError(): Request with an error Error: aborted and Error: aborted
+    at connResetException (node:internal/errors:691:14)
+    at abortIncoming (node:_http_server:596:17)
+    at socketOnClose (node:_http_server:590:3)
+    at Socket.emit (node:events:402:35)
+    at TCP.<anonymous> (node:net:687:12)
+2021/12/19 - 20:17 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 20:17 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 20:17 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 20:17 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/19 - 20:17 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /
+2021/12/19 - 20:17 [ERROR] - Pandora.KoalaModule.reqError(): Request with an error Error: aborted and Error: aborted
+    at connResetException (node:internal/errors:691:14)
+    at abortIncoming (node:_http_server:596:17)
+    at socketOnClose (node:_http_server:590:3)
+    at Socket.emit (node:events:402:35)
+    at TCP.<anonymous> (node:net:687:12)
+2021/12/19 - 20:19 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 20:19 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 20:19 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/19 - 20:19 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 20:19 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /
+2021/12/19 - 20:19 [ERROR] - Pandora.KoalaModule.reqError(): Request with an error Error: aborted and Error: aborted
+    at connResetException (node:internal/errors:691:14)
+    at abortIncoming (node:_http_server:596:17)
+    at socketOnClose (node:_http_server:590:3)
+    at Socket.emit (node:events:402:35)
+    at TCP.<anonymous> (node:net:687:12)
+2021/12/19 - 20:19 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 20:19 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 20:19 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/19 - 20:19 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 20:19 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /
+2021/12/19 - 20:19 [ERROR] - Pandora.KoalaModule.reqError(): Request with an error Error: aborted and Error: aborted
+    at connResetException (node:internal/errors:691:14)
+    at abortIncoming (node:_http_server:596:17)
+    at socketOnClose (node:_http_server:590:3)
+    at Socket.emit (node:events:402:35)
+    at TCP.<anonymous> (node:net:687:12)
+2021/12/19 - 20:19 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/19 - 20:21 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 20:21 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 20:21 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/19 - 20:21 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 20:21 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/19 - 20:21 [ERROR] - Pandora.KoalaModule.reqError(): Request with an error Error: aborted and Error: aborted
+    at connResetException (node:internal/errors:691:14)
+    at abortIncoming (node:_http_server:596:17)
+    at socketOnClose (node:_http_server:590:3)
+    at Socket.emit (node:events:402:35)
+    at TCP.<anonymous> (node:net:687:12)
+2021/12/19 - 20:22 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 20:22 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 20:22 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/19 - 20:22 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 20:22 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/19 - 20:22 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 20:22 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 20:22 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/19 - 20:22 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 20:22 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/19 - 20:23 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 20:23 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 20:23 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/19 - 20:23 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 20:23 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/19 - 20:24 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 20:24 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 20:24 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/19 - 20:24 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 20:24 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/19 - 20:24 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/19 - 20:24 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/19 - 20:24 [ERROR] - Pandora.KoalaModule.reqError(): Request with an error Error: aborted and Error: aborted
+    at connResetException (node:internal/errors:691:14)
+    at abortIncoming (node:_http_server:596:17)
+    at socketOnClose (node:_http_server:590:3)
+    at Socket.emit (node:events:402:35)
+    at TCP.<anonymous> (node:net:687:12)
+2021/12/19 - 20:35 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 20:35 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 20:35 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/19 - 20:35 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 20:35 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/19 - 20:35 [ERROR] - CarrierPigeonUtils.loadRoutesFromDir():About to load route "[object Object]"
+2021/12/19 - 20:35 [ERROR] - Pandora.KoalaModule.reqError(): Request with an error Error: aborted and Error: aborted
+    at connResetException (node:internal/errors:691:14)
+    at abortIncoming (node:_http_server:596:17)
+    at socketOnClose (node:_http_server:590:3)
+    at Socket.emit (node:events:402:35)
+    at TCP.<anonymous> (node:net:687:12)
+2021/12/19 - 20:43 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 20:43 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 20:43 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/19 - 20:43 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 20:43 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/19 - 20:43 [ERROR] - undefined
+2021/12/19 - 20:43 [ERROR] - CarrierPigeonUtils.loadRoutesFromDir():About to load route "[object Object]"
+2021/12/19 - 20:45 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 20:45 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 20:45 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/19 - 20:45 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 20:45 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/19 - 20:45 [ERROR] - NotFound.js
+2021/12/19 - 20:45 [ERROR] - CarrierPigeonUtils.loadRoutesFromDir():About to load route "[object Object]"
+2021/12/19 - 20:46 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 20:46 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 20:46 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/19 - 20:46 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 20:46 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/19 - 20:46 [ERROR] - Pandora.KoalaModule.reqError(): Request with an error Error: aborted and Error: aborted
+    at connResetException (node:internal/errors:691:14)
+    at abortIncoming (node:_http_server:596:17)
+    at socketOnClose (node:_http_server:590:3)
+    at Socket.emit (node:events:402:35)
+    at TCP.<anonymous> (node:net:687:12)
+2021/12/19 - 20:50 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 20:50 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 20:50 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/19 - 20:50 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 20:50 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/19 - 20:50 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/19 - 20:50 [WARN] - Pandora.NotFoud.js - Loaded a request.
+2021/12/19 - 20:51 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 20:51 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 20:51 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/19 - 20:51 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 20:52 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 20:52 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 20:52 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/19 - 20:52 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 20:53 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 20:53 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 20:53 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/19 - 20:53 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 21:00 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 21:00 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 21:00 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/19 - 21:00 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 21:01 [INFO] - Pandora - Initializing logger module.
+2021/12/19 - 21:01 [INFO] - Pandora.js - The cat is waking up
+2021/12/19 - 21:01 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/19 - 21:01 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/19 - 21:01 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/19 - 21:01 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/19 - 21:01 [INFO] - Pandora.NotFoud.js - Loaded a request.

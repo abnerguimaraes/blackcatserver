@@ -2,7 +2,7 @@
 
 module.exports = KoalaModule;
 
-function KoalaModule(pussyObj) {
+function KoalaModule(pussyObj, routes) {
     
     this.VERSION = "2021-12-19";
 
@@ -10,6 +10,20 @@ function KoalaModule(pussyObj) {
     let http = pussyObj.http;
     let app = pussyObj.koala;
     let port = pussyObj.conf.port
+
+    let routesNames = new Array();
+
+    if (routes && routes.length) {
+
+        for (let i = 0; i < routes.length; i++) {
+
+            let item = "/"
+            item += routes[i].slice(0, routes[i].indexOf(".js")).toLowerCase();
+            routesNames.push(item);
+
+        }
+
+    }
 
     logger.info(`Pandora.KoalaModule.js - Preparing the server to listen the port ${port}`);
     
@@ -34,7 +48,26 @@ function KoalaModule(pussyObj) {
             res.setHeader('Content-Type', 'text/plain; charset=UTF-8');
             res.write('Sorry, our API only supports POST rquests');
             res.end();
-            logger.error(`Pandora.KoalaModule.requestResponse(): Client was a bad kittie trying to do a ${req.method} request, I scrach him out`);
+            logger.error(`Pandora.KoalaModule.requestResponse(): Client was a bad kittie trying to do a ${req.method} request, I scrached him away!`);
+
+        } else {
+
+            let routeObj = new Object();
+                routeObj.req = req;
+                routeObj.res = res;
+            
+            if (routesNames.indexOf(req.url) > -1) {
+                
+                let fileName = routes[routesNames.indexOf(req.url)];
+
+                logger.info(`Pandora.KoalaModule.requestResponse():About to load route "${fileName}"`);
+
+                let RouteRequire = require('./routes/' + fileName);
+                let routeRequire = new RouteRequire(routeObj, pussyObj);
+
+            } else {
+                console.log("não achou " + req.url + " - " + routesNames);
+            }
 
         }
 

@@ -10,14 +10,16 @@ function DataFormatter(){
   
     const ano = dataObj.getFullYear();
     let mes = (dataObj.getMonth()+1).toString();
-    mes = mes.padStart(2, "0");
+        mes = mes.padStart(2, "0");
 
     let dia = dataObj.getDate().toString();
-    dia = dia.padStart(2, "0");
+        dia = dia.padStart(2, "0");
+
     let hora = dataObj.getHours().toString();
-    hora = hora.padStart(2, "0");
+        hora = hora.padStart(2, "0");
+    
     let minuto = dataObj.getMinutes().toString();
-    minuto = minuto.padStart(2, "0");
+        minuto = minuto.padStart(2, "0");
 
     const agora = ano + "/" + mes + "/" + dia + " - " + hora + ":" + minuto;
 

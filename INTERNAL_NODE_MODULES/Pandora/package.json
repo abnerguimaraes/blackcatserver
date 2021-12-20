@@ -13,6 +13,9 @@
     "url": "https://abner-curriculo.web.app/"
   },
   "files": [
-    "src/PandoraServer.js"
+    "src/PandoraServer.js",
+
+    "src/KoalaModule.js",
+    "src/RoutesLoader.js"
   ]
 }
