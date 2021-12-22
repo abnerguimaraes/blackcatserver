@@ -2,33 +2,42 @@
 
 const util = require('util');
 const fs = require('fs');
+const Sequelize = require('sequelize');
+const mysql = require('mysql2');
 
 try {
 
-  let pussyObj = new Object();
+  let tarBallObj = new Object();
   
   const conf = "./conf/conf.json";
   const logFile = JSON.parse(fs.readFileSync(conf)).pandora.log.logPath;
 
-  pussyObj.conf = JSON.parse(fs.readFileSync(conf)).pandora;
-  pussyObj.fs = fs;
-  pussyObj.logFile = logFile;
+  tarBallObj.conf = JSON.parse(fs.readFileSync(conf)).pandora;
+  tarBallObj.fs = fs;
+  tarBallObj.util = util;
+  tarBallObj.logFile = logFile;
+  tarBallObj.mysql = mysql;
 
   const CatLitterBox = require('CatLitterBox');
-  const logger = new CatLitterBox("INFO", pussyObj);
-  pussyObj.logger = logger;
+  const logger = new CatLitterBox("INFO", tarBallObj);
+  tarBallObj.logger = logger;
 
   logger.info(`Pandora - Initializing logger module.`);
-  
+  tarBallObj.Sequelize = Sequelize;
+
+  const Core = require('core');
+  const core = new Core(tarBallObj);
+  tarBallObj.core = core;
+
   const Koala = require('koala');
   const koala = new Koala();
-  pussyObj.koala = koala;
+  tarBallObj.koala = koala;
 
   const http = require('http');
-  pussyObj.http = http;
+  tarBallObj.http = http;
 
   const Pandora = require("Pandora");
-  const pandora = new Pandora(pussyObj);
+  const pandora = new Pandora(tarBallObj);
   
 } catch(e) {
   

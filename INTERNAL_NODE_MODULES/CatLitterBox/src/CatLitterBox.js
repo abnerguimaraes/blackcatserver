@@ -2,19 +2,19 @@
 
 module.exports = CatLitterBox;
 
-function CatLitterBox(level, pussyObj) {
+function CatLitterBox(level, tarBallObj) {
 
   this.VERSION = '2021-12-13';
   
   //imports
   const util = require('util');
-  const fs = pussyObj.fs;
+  const fs = tarBallObj.fs;
 
   //my imports
   const DataFormatter = require('./DataFormatter');
   const dataFormatter = new DataFormatter();
   const ChangeOutputFile = require('./ChangeOutputFile');
-  const changeOutputFile = new ChangeOutputFile(pussyObj);
+  const changeOutputFile = new ChangeOutputFile(tarBallObj);
 
   const DEBUG = 1;
   const INFO = 2;
@@ -61,7 +61,7 @@ function CatLitterBox(level, pussyObj) {
         fs.appendFile(1, `${agora} [WARN] - ${logString}\n`, appendToFileCallback);
 
       }
-      fs.appendFile(pussyObj.logFile, `${agora} [WARN] - ${logString}\n`, appendToFileCallback);
+      fs.appendFile(tarBallObj.logFile, `${agora} [WARN] - ${logString}\n`, appendToFileCallback);
     }
   }
 
@@ -116,7 +116,7 @@ function CatLitterBox(level, pussyObj) {
         
       }
 
-      fs.appendFile(pussyObj.logFile, `${agora} [DEBUG] - ${logString}\n`, appendToFileCallback);
+      fs.appendFile(tarBallObj.logFile, `${agora} [DEBUG] - ${logString}\n`, appendToFileCallback);
       
     }
   }
@@ -148,7 +148,7 @@ function CatLitterBox(level, pussyObj) {
         
       }
 
-      fs.appendFile(pussyObj.logFile, `${agora} [INFO] - ${logString}\n`, appendToFileCallback);
+      fs.appendFile(tarBallObj.logFile, `${agora} [INFO] - ${logString}\n`, appendToFileCallback);
       
     }
   }
@@ -180,7 +180,7 @@ function CatLitterBox(level, pussyObj) {
         
       }
 
-      fs.appendFile(pussyObj.logFile, `${agora} [ERROR] - ${logString}\n`, appendToFileCallback);
+      fs.appendFile(tarBallObj.logFile, `${agora} [ERROR] - ${logString}\n`, appendToFileCallback);
       
     }
   }

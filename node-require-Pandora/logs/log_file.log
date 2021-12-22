@@ -261,3 +261,1453 @@
 2021/12/19 - 21:01 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
 2021/12/19 - 21:01 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
 2021/12/19 - 21:01 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/20 - 08:55 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 08:55 [INFO] - Pandora.js - The cat is waking up
+2021/12/20 - 08:55 [WARN] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/20 - 08:55 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/20 - 08:55 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/20 - 08:55 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/20 - 08:55 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/20 - 08:55 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/20 - 08:55 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/20 - 08:55 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/20 - 08:55 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/20 - 08:55 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/20 - 08:55 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/20 - 08:55 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/20 - 08:55 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/20 - 08:55 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/20 - 08:55 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/20 - 08:55 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/20 - 08:55 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/20 - 08:55 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/20 - 08:55 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/20 - 08:55 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/20 - 08:55 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/20 - 08:55 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/20 - 08:55 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/20 - 08:55 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/20 - 08:55 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/20 - 08:55 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/20 - 08:55 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/20 - 08:55 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/20 - 08:55 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/20 - 08:55 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/20 - 08:55 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/20 - 08:55 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/20 - 08:55 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/20 - 08:55 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/20 - 08:55 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/20 - 13:14 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 13:14 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/20 - 13:14 [INFO] - Pandora.js - The cat is waking up
+2021/12/20 - 13:14 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/20 - 13:16 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 13:16 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/20 - 13:16 [INFO] - Pandora is about to play with Core
+2021/12/20 - 13:16 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/20 - 13:16 [INFO] - Pandora.js - The cat is waking up
+2021/12/20 - 13:19 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 13:20 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 13:20 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/20 - 13:20 [INFO] - Pandora.js - The cat is waking up
+2021/12/20 - 13:20 [INFO] - Core.js - The cat is waking up
+2021/12/20 - 13:20 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/20 - 13:22 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 13:41 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 13:42 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 13:42 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 13:43 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 13:43 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/20 - 13:43 [INFO] - Pandora.js - This cat is waking up
+2021/12/20 - 13:43 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/20 - 13:43 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 13:47 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 13:47 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/20 - 13:47 [INFO] - Pandora.js - This cat is waking up
+2021/12/20 - 13:47 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/20 - 13:47 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 13:48 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 13:48 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 13:48 [INFO] - Pandora.js - This cat is waking up
+2021/12/20 - 13:48 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/20 - 13:49 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 13:49 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 13:53 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 13:53 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 13:53 [INFO] - Pandora.js - This cat is waking up
+2021/12/20 - 13:53 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/20 - 13:53 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 13:53 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 13:53 [INFO] - Pandora.js - This cat is waking up
+2021/12/20 - 13:53 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/20 - 13:54 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 13:54 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 13:54 [INFO] - Pandora.js - This cat is waking up
+2021/12/20 - 13:54 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/20 - 13:54 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 13:54 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 13:54 [INFO] - Pandora.js - This cat is waking up
+2021/12/20 - 13:54 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/20 - 13:54 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 13:54 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 13:54 [INFO] - Pandora.js - This cat is waking up
+2021/12/20 - 13:54 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/20 - 13:54 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/20 - 13:54 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 13:54 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 13:54 [ERROR] - [object Object]
+2021/12/20 - 13:54 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/20 - 13:54 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/20 - 13:54 [INFO] - Pandora.js - This cat is waking up
+2021/12/20 - 13:55 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 13:55 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/20 - 13:55 [ERROR] - {"version":"0.1.2","map":{".js":{"rules":{"this":"this","number float":{},"number integer":{},"comment":{},"keyword":{},"string":{},"class":{},"variable":{},"regexp":{}}},".rb":{"rules":{"this":"self","number float":{},"number integer":{},"comment":{},"keyword":{},"string":{},"symbol string":{},"class":{},"global variable":{},"class variable":{},"inst variable":{},"variable":{},"regexp":{}}},".h":{"rules":{"directive":{},"number float":{},"number integer":{},"comment":{},"keyword":{},"string":{},"class":{},"variable":{}}},".c":{"rules":{"directive":{},"number float":{},"number integer":{},"comment":{},"keyword":{},"string":{},"class":{},"variable":{}}}}}
+2021/12/20 - 13:55 [INFO] - Pandora.js - This cat is waking up
+2021/12/20 - 13:55 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 13:55 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/20 - 14:26 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 14:26 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/20 - 14:26 [ERROR] - {"version":"0.1.2","map":{".js":{"rules":{"this":"this","number float":{},"number integer":{},"comment":{},"keyword":{},"string":{},"class":{},"variable":{},"regexp":{}}},".rb":{"rules":{"this":"self","number float":{},"number integer":{},"comment":{},"keyword":{},"string":{},"symbol string":{},"class":{},"global variable":{},"class variable":{},"inst variable":{},"variable":{},"regexp":{}}},".h":{"rules":{"directive":{},"number float":{},"number integer":{},"comment":{},"keyword":{},"string":{},"class":{},"variable":{}}},".c":{"rules":{"directive":{},"number float":{},"number integer":{},"comment":{},"keyword":{},"string":{},"class":{},"variable":{}}}}}
+2021/12/20 - 14:26 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/20 - 14:26 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 14:26 [INFO] - Pandora.js - This cat is waking up
+2021/12/20 - 14:28 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 14:28 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 14:29 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 14:29 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 14:30 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 14:30 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/20 - 14:30 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/20 - 14:30 [INFO] - Pandora.js - This cat is waking up
+2021/12/20 - 14:30 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 14:30 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/20 - 14:30 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/20 - 14:30 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/20 - 14:49 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 14:49 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 14:49 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/20 - 14:49 [INFO] - Pandora.js - This cat is waking up
+2021/12/20 - 14:49 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/20 - 14:49 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 14:59 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 14:59 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 14:59 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/20 - 14:59 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/20 - 14:59 [ERROR] - undefined
+2021/12/20 - 14:59 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 14:59 [INFO] - Pandora.js - This cat is waking up
+2021/12/20 - 15:00 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 15:00 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/20 - 15:00 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/20 - 15:00 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 15:00 [ERROR] - {"db":"agenda","user":"root","pass":"torto0132","host":"127.0.0.1"}
+2021/12/20 - 15:00 [INFO] - Pandora.js - This cat is waking up
+2021/12/20 - 15:06 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 15:14 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 15:14 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/20 - 15:14 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 15:14 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/20 - 15:14 [INFO] - Pandora.js - This cat is waking up
+2021/12/20 - 15:18 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 15:18 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/20 - 15:18 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 15:18 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/20 - 15:18 [INFO] - Pandora.js - This cat is waking up
+2021/12/20 - 15:46 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 15:46 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/20 - 15:46 [INFO] - Pandora.js - This cat is waking up
+2021/12/20 - 15:46 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/20 - 15:46 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 16:05 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 16:05 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 16:07 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 16:07 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 16:07 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 16:07 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/20 - 16:07 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 16:08 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 16:08 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 16:08 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/20 - 16:08 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 16:08 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/20 - 16:08 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/20 - 16:08 [INFO] - Pandora.js - This cat is waking up
+2021/12/20 - 16:08 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 16:08 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/20 - 16:10 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 16:10 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/20 - 16:10 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/20 - 16:10 [INFO] - Pandora.js - This cat is waking up
+2021/12/20 - 16:10 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 16:10 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/20 - 16:12 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 16:12 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/20 - 16:12 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/20 - 16:12 [INFO] - Pandora.js - This cat is waking up
+2021/12/20 - 16:12 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 16:12 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/20 - 16:12 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/20 - 16:12 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/20 - 16:12 [ERROR] - {"VERSION":"2021-12-20"}
+2021/12/20 - 16:12 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/20 - 16:13 [INFO] - Pandora - Initializing logger module.
+2021/12/20 - 16:13 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/20 - 16:13 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/20 - 16:13 [INFO] - Core.js - This cat is waking up
+2021/12/20 - 16:13 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/20 - 16:13 [INFO] - Pandora.js - This cat is waking up
+2021/12/20 - 16:13 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/20 - 16:13 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/20 - 16:13 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/20 - 16:13 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/20 - 16:13 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/20 - 16:13 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/20 - 16:13 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/20 - 16:13 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/20 - 16:13 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 08:59 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 08:59 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 09:00 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 09:00 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 09:00 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 09:00 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 09:00 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 09:00 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 09:00 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 09:00 [INFO] - Core.connectToDataBase(): Core is connected with database
+2021/12/21 - 09:00 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 09:15 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 09:15 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 09:15 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 09:15 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 09:15 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 09:33 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 09:33 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 09:33 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 09:33 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 09:33 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 09:40 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 09:40 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 09:40 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 09:40 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 09:40 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 09:41 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 09:41 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 09:41 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 09:41 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 09:41 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 09:41 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 09:41 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 09:41 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 09:41 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 09:41 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 09:43 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 09:43 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 09:43 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 09:43 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 09:43 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 09:43 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 09:43 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 09:43 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 09:43 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 09:43 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 09:43 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 09:43 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 09:43 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 09:43 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 09:43 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:09 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 10:09 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 10:09 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 10:09 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 10:09 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 10:09 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:09 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:09 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:09 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:09 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:10 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 10:10 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 10:10 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 10:10 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 10:10 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 10:10 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:10 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:10 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 10:10 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:10 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:10 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:13 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 10:13 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 10:13 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 10:13 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 10:13 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 10:13 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:13 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:13 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:13 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:13 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:13 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 10:13 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:13 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:13 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 10:13 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:13 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:13 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:15 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 10:15 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 10:15 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 10:15 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 10:15 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 10:15 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:15 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:15 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 10:15 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:15 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:15 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:16 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 10:16 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 10:16 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 10:16 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 10:16 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 10:16 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:16 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:16 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 10:16 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:16 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:16 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:21 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 10:21 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 10:21 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 10:21 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 10:21 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 10:21 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:21 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:21 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 10:21 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:21 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:21 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:21 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 10:21 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:21 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:21 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 10:21 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:21 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:21 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:21 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 10:22 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 10:22 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 10:22 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 10:22 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 10:22 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 10:22 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:22 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:22 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 10:22 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:22 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:22 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:22 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 10:22 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 10:22 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 10:22 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 10:22 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 10:22 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 10:22 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:22 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:22 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 10:22 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:22 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:22 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:22 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 10:24 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 10:24 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 10:24 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 10:24 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 10:24 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 10:24 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:24 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:24 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 10:24 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:24 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:24 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:24 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 10:24 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 10:24 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 10:24 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 10:24 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 10:24 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:24 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:24 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 10:24 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:24 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:24 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:24 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 10:26 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 10:26 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 10:26 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 10:26 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 10:26 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 10:29 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 10:29 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 10:29 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 10:29 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 10:29 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 10:29 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:29 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:29 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:29 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:29 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:29 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 10:29 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 10:29 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 10:29 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 10:29 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 10:29 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:29 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:29 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:29 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:29 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:29 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 10:29 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 10:29 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 10:29 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 10:29 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 10:29 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:29 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:29 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:29 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:29 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:30 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 10:30 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 10:30 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 10:30 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 10:30 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 10:30 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:30 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:30 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:30 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:30 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:30 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:30 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:30 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:30 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:30 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:30 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 10:30 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 10:30 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 10:30 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 10:30 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 10:30 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:30 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:30 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:30 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:30 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:30 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:30 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:30 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:30 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:30 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:30 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 10:30 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 10:30 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 10:30 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 10:30 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 10:30 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:30 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:30 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:30 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:30 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:32 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 10:32 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 10:32 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 10:32 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 10:32 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 10:32 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:32 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:32 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 10:32 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:32 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:32 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:32 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 10:32 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:32 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:32 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 10:32 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:32 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:32 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:32 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 10:34 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 10:34 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 10:34 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 10:34 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 10:34 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 10:34 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:34 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:34 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:34 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:34 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:34 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 10:34 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 10:44 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 10:44 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 10:44 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 10:44 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 10:44 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 10:44 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:44 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:44 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:44 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:44 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:44 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 10:44 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 10:48 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 10:48 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 10:48 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 10:48 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 10:48 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 10:48 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:48 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:48 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 10:48 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:48 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:48 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:48 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 10:48 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:48 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:48 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 10:48 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:48 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:48 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:48 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 10:48 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:48 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:48 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:48 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:48 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 10:48 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:48 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 10:48 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:48 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:48 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 10:48 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:48 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:48 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:48 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 10:48 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:48 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:48 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 10:48 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:48 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:48 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:48 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 10:48 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:48 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:48 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 10:48 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:48 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:48 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:48 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 10:50 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 10:50 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 10:50 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 10:50 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 10:50 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 10:50 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:50 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:50 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 10:50 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:50 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:50 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:50 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 10:50 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 10:50 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 10:50 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 10:50 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 10:50 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 10:50 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:50 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:50 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 10:50 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:50 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:50 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:50 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 10:59 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 10:59 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 10:59 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 10:59 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 10:59 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 10:59 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 10:59 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 10:59 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 10:59 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 10:59 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 10:59 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 10:59 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 11:00 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 11:00 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 11:00 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 11:00 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 11:00 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 11:00 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 11:00 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 11:00 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 11:00 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 11:00 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 11:00 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 11:00 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 11:01 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 11:01 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 11:01 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 11:01 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 11:01 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 11:02 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 11:02 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 11:02 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 11:02 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 11:02 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 11:03 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 11:03 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 11:03 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 11:03 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 11:03 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 11:03 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 11:03 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 11:03 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 11:03 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 11:03 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 11:03 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 11:03 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 11:10 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 11:10 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 11:10 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 11:10 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 11:10 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 11:10 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 11:10 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 11:10 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 11:10 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 11:10 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 11:10 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 11:10 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 11:11 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 11:11 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 11:11 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 11:11 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 11:11 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 11:11 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 11:11 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 11:11 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 11:11 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 11:11 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 11:11 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 11:11 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 11:15 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 11:15 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 11:15 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 11:15 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 11:15 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 11:15 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 11:15 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 11:15 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 11:15 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 11:15 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 11:15 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 11:15 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 11:15 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 11:15 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 11:15 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 11:15 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 11:15 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 11:15 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 11:15 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 11:15 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 11:15 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 11:15 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 11:15 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 11:15 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 11:16 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 11:16 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 11:16 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 11:16 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 11:16 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 11:16 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 11:16 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 11:16 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 11:16 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 11:16 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 11:16 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 11:16 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 11:19 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 11:19 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 11:19 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 11:19 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 11:19 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 11:19 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 11:19 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 11:19 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 11:19 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 11:19 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 11:19 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 11:19 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 11:19 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 11:19 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 11:19 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 11:27 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 11:27 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 11:27 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 11:27 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 11:27 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 11:27 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 11:27 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 11:27 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 11:27 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 11:27 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 11:27 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 11:27 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 11:27 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 11:27 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 11:27 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 11:27 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 11:27 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 11:27 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 11:27 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 11:27 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 11:27 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 11:27 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 11:27 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 11:27 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 11:28 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 11:28 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 11:28 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 11:28 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 11:28 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 11:28 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 11:28 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 11:28 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 11:28 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 11:28 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 11:28 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 11:28 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 11:28 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 11:28 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 11:28 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 11:28 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 11:28 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 11:28 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 11:28 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 11:28 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 11:28 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 11:28 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 11:28 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 11:28 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 11:29 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 11:29 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 11:29 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 11:29 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 11:29 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 11:29 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 11:29 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 11:29 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 11:29 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 11:29 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 11:29 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 11:29 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 11:29 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 11:29 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 11:29 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 11:29 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 11:29 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 11:29 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 11:29 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 11:29 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 11:29 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 11:29 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 11:29 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 11:29 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 11:37 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 11:37 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 11:37 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 11:37 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 11:37 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 11:37 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 11:37 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 11:37 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 11:37 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 11:37 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 11:37 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 11:37 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 11:48 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 11:48 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 11:48 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 11:48 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 11:48 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 11:48 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 11:48 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 11:48 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 11:48 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 11:48 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 11:48 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 11:48 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 13:20 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 13:20 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 13:20 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 13:20 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 13:20 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 13:21 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 13:21 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 13:21 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 13:21 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 13:21 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 13:21 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 13:21 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 13:21 [INFO] - Core.NotFound(): Core is connected with database
+2021/12/21 - 13:21 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 13:21 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 13:21 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 13:21 [INFO] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 13:22 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 13:22 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 13:22 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 13:22 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 13:22 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 13:22 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 13:22 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 13:22 [ERROR] - Core.NotFound(): Core is connected with database
+2021/12/21 - 13:22 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 13:22 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 13:22 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 13:22 [ERROR] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 13:40 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 13:40 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 13:41 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 13:41 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 13:41 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 13:41 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 13:41 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 13:42 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 13:42 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 13:42 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 13:42 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 13:42 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 13:42 [ERROR] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 13:43 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 13:43 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 13:43 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 13:43 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 13:43 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 13:43 [ERROR] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 13:44 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 13:44 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 13:44 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 13:44 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 13:44 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 13:44 [ERROR] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 13:45 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 13:45 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 13:45 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 13:45 [ERROR] - undefined
+2021/12/21 - 13:45 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 13:45 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 13:45 [ERROR] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 13:47 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 13:47 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 13:47 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 13:47 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 13:47 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 13:47 [ERROR] - undefined
+2021/12/21 - 13:47 [ERROR] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 13:49 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 13:49 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 13:49 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 13:49 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 13:49 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 13:49 [ERROR] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 13:49 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 13:49 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 13:49 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 13:49 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 13:49 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 13:49 [ERROR] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 13:50 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 13:50 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 13:50 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 13:50 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 13:50 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 13:50 [ERROR] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 13:51 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 13:51 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 13:51 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 13:51 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 13:51 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 13:51 [ERROR] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 13:51 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 13:51 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 13:51 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 13:51 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 13:51 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 13:51 [ERROR] - [object Object]
+2021/12/21 - 13:51 [ERROR] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 13:53 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 13:53 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 13:53 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 13:53 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 13:53 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 13:53 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 13:53 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 13:53 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 13:53 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 13:53 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 13:53 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 13:53 [ERROR] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 13:54 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 13:54 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 13:54 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 13:54 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 13:54 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 13:54 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 13:54 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 13:54 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 13:54 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 13:54 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 13:54 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 13:54 [ERROR] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 13:57 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 13:57 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 13:57 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 13:57 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 13:57 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 13:57 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 13:58 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 13:58 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 13:58 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 13:58 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 13:58 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 13:58 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 13:58 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 13:58 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 13:58 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 13:58 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 13:58 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 13:58 [ERROR] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 13:59 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 13:59 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 13:59 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 13:59 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 13:59 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 13:59 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 13:59 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 13:59 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 13:59 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 13:59 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 13:59 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 13:59 [ERROR] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 13:59 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 13:59 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 13:59 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 13:59 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 13:59 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 13:59 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 15:32 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 15:32 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 15:32 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 15:32 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 15:32 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 15:32 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 15:32 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 15:32 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 15:32 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 15:32 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 15:32 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 15:32 [ERROR] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 15:44 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 15:44 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 15:44 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 15:44 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 15:44 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 15:44 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 15:44 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 15:44 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 15:44 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 15:44 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 15:44 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 15:44 [ERROR] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 15:45 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 15:45 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 15:45 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 15:45 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 15:45 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 15:45 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 15:45 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 15:45 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 15:45 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 15:45 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 15:45 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 15:45 [ERROR] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 15:46 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 15:46 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 15:46 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 15:46 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 15:46 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 15:46 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 15:46 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 15:46 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 15:46 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 15:46 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 15:46 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 15:46 [ERROR] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 15:50 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 15:50 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 15:50 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 15:50 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 15:50 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 15:50 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 15:50 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 15:50 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 15:50 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 15:50 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 15:50 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 15:50 [ERROR] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 16:08 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 16:08 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 16:08 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 16:08 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 16:08 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 16:08 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 16:37 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 16:37 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 16:37 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 16:37 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 16:37 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 16:37 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 16:50 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 16:50 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 16:50 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 16:50 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 16:50 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 16:50 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 16:50 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 16:50 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 16:50 [ERROR] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 16:50 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 16:50 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 16:50 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 16:50 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 16:50 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 16:50 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 16:50 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 16:50 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 16:50 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 16:50 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 16:50 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 16:50 [ERROR] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 16:50 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 16:50 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 16:50 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 17:13 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:13 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:13 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:13 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:13 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:13 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:13 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 17:13 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 17:13 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 17:13 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 17:13 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 17:13 [ERROR] - Core.NotFound(): Query executed successfull, data is sending back
+2021/12/21 - 17:17 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:17 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:17 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:17 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:17 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:17 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:18 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:18 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:18 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:18 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:18 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:18 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:18 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:18 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:18 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:18 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:18 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:18 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:20 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:20 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:20 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:20 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:20 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:20 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:21 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:21 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:21 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:21 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:21 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:21 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:21 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 17:21 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 17:21 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 17:21 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 17:21 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 17:22 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:22 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:22 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:22 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:22 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:22 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:22 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 17:22 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 17:22 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 17:22 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 17:22 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 17:23 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:23 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:23 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:23 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:23 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:23 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:23 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 17:23 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 17:23 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 17:23 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 17:23 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 17:24 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:24 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:24 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:24 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:24 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:24 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:24 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 17:24 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 17:24 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 17:24 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 17:24 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 17:24 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:24 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:24 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:24 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:24 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:24 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:24 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 17:24 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 17:24 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 17:24 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 17:24 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 17:24 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:24 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:24 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:24 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:24 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:24 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:24 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 17:24 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 17:24 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 17:24 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 17:24 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 17:25 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:25 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:25 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:25 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:25 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:25 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:25 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 17:25 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 17:25 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 17:25 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 17:25 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 17:26 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:26 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:26 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:26 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:26 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:26 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:26 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 17:26 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 17:26 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 17:26 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 17:26 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 17:26 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:26 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:26 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:26 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:26 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:26 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:26 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 17:26 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 17:26 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 17:26 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 17:26 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 17:27 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:27 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:27 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:27 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:27 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:27 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:27 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 17:27 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 17:27 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 17:27 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 17:27 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 17:33 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:33 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:33 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:33 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:33 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:33 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:35 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:35 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:35 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:35 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:35 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:35 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:35 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:35 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:35 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:35 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:35 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:35 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:35 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 17:35 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 17:35 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 17:35 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 17:35 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 17:35 [INFO] - Core.NotFound - Query is beeing executed.
+2021/12/21 - 17:40 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:40 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:40 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:40 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:40 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:40 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:40 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:40 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:40 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:40 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:40 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:40 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:40 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 17:40 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 17:40 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 17:40 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 17:40 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 17:40 [INFO] - Core.NotFound - Query is beeing executed.
+2021/12/21 - 17:41 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:41 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:41 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:41 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:41 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:41 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:41 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 17:41 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 17:41 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 17:41 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 17:41 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 17:41 [INFO] - Core.NotFound - Query is beeing executed.
+2021/12/21 - 17:43 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:43 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:43 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:43 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:43 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:43 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:43 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 17:43 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 17:43 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 17:43 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 17:43 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 17:43 [INFO] - Core.NotFound - Query is beeing executed.
+2021/12/21 - 17:45 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:45 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:45 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:45 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:45 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:45 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:45 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 17:45 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 17:45 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 17:45 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 17:45 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 17:46 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:46 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:46 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:46 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:46 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:46 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:46 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 17:46 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 17:46 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 17:46 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 17:46 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 17:46 [INFO] - Core.NotFound - Query is beeing executed.
+2021/12/21 - 17:47 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:47 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:47 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:47 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:47 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:47 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:47 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 17:47 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 17:47 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 17:47 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 17:47 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 17:47 [INFO] - Core.NotFound - Query is beeing executed.
+2021/12/21 - 17:47 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:47 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:47 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:47 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:47 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:47 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:47 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 17:47 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 17:47 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 17:47 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 17:47 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 17:47 [INFO] - Core.NotFound - Query is beeing executed.
+2021/12/21 - 17:50 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:50 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:50 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:50 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:50 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:50 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:50 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 17:50 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 17:50 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 17:50 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 17:50 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 17:51 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 17:51 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 17:51 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 17:51 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 17:51 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 17:51 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 17:51 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 17:51 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 17:51 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 17:51 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 17:51 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 22:08 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 22:08 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 22:08 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 22:08 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 22:08 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 22:08 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 22:08 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 22:08 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 22:08 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 22:08 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 22:08 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 22:12 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 22:12 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 22:12 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 22:12 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 22:12 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 22:12 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 22:12 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 22:12 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 22:12 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 22:12 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 22:12 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 22:12 [ERROR] - ABNER
+2021/12/21 - 22:16 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 22:16 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 22:16 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 22:16 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 22:16 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 22:16 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 22:16 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 22:16 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 22:16 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 22:16 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 22:16 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 22:16 [INFO] - Pandora.NotFound.dataCallback(): Core send the data, good kitie.
+2021/12/21 - 22:17 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 22:17 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 22:17 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 22:17 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 22:17 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 22:17 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 22:17 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 22:17 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 22:17 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 22:17 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 22:17 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 22:17 [INFO] - Pandora.NotFound.dataCallback(): Core send the data, good kitie.
+2021/12/21 - 22:17 [ERROR] - [object Object]
+2021/12/21 - 22:17 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 22:17 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 22:17 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 22:17 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 22:17 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 22:17 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 22:17 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 22:17 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 22:17 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 22:17 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 22:17 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 22:17 [INFO] - Pandora.NotFound.dataCallback(): Core send the data, good kitie.
+2021/12/21 - 22:17 [ERROR] - [{"id":1,"empresa":"BlackCat","email":"guimaraesabner@gmail.com","categoria":"brinquedos","dataCriacao":"2021-12-21T03:00:00.000Z","dataAtualizacao":"2021-12-21T03:00:00.000Z","versao":0}]
+2021/12/21 - 22:18 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 22:18 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 22:18 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 22:18 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 22:18 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 22:18 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 22:18 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 22:18 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 22:18 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 22:18 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 22:18 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 22:18 [INFO] - Pandora.NotFound.dataCallback(): Core send the data, good kitie.
+2021/12/21 - 22:18 [ERROR] - [{"id":1,"empresa":"BlackCat","email":"guimaraesabner@gmail.com","categoria":"brinquedos","dataCriacao":"2021-12-21T03:00:00.000Z","dataAtualizacao":"2021-12-21T03:00:00.000Z","versao":0}]
+2021/12/21 - 22:19 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 22:19 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 22:19 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 22:19 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 22:19 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 22:19 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 22:19 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 22:19 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 22:19 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 22:19 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 22:19 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 22:19 [WARN] - dinalizando
+2021/12/21 - 22:19 [INFO] - Pandora.NotFound.dataCallback(): Core send the data, good kitie.
+2021/12/21 - 22:19 [ERROR] - [{"id":1,"empresa":"BlackCat","email":"guimaraesabner@gmail.com","categoria":"brinquedos","dataCriacao":"2021-12-21T03:00:00.000Z","dataAtualizacao":"2021-12-21T03:00:00.000Z","versao":0}]
+2021/12/21 - 22:19 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 22:19 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 22:19 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 22:19 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 22:19 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 22:19 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 22:19 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 22:19 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 22:19 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 22:19 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 22:19 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 22:19 [INFO] - Pandora.NotFound.dataCallback(): Core send the data, good kitie.
+2021/12/21 - 22:19 [ERROR] - [{"id":1,"empresa":"BlackCat","email":"guimaraesabner@gmail.com","categoria":"brinquedos","dataCriacao":"2021-12-21T03:00:00.000Z","dataAtualizacao":"2021-12-21T03:00:00.000Z","versao":0}]
+2021/12/21 - 22:19 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 22:19 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 22:19 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 22:19 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 22:19 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 22:19 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 22:19 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 22:19 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 22:19 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 22:19 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 22:19 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 22:19 [INFO] - Pandora.NotFound.dataCallback(): Core send the data, good kitie.
+2021/12/21 - 22:19 [ERROR] - [{"id":1,"empresa":"BlackCat","email":"guimaraesabner@gmail.com","categoria":"brinquedos","dataCriacao":"2021-12-21T03:00:00.000Z","dataAtualizacao":"2021-12-21T03:00:00.000Z","versao":0}]
+2021/12/21 - 22:21 [INFO] - Pandora - Initializing logger module.
+2021/12/21 - 22:21 [INFO] - Core.js - This cat is waking up
+2021/12/21 - 22:21 [INFO] - Pandora.js - This cat is waking up
+2021/12/21 - 22:21 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: NotFound.js
+2021/12/21 - 22:21 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/21 - 22:21 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/21 - 22:21 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /notfound
+2021/12/21 - 22:21 [INFO] - Pandora.NotFoud.js - Loaded a request.
+2021/12/21 - 22:21 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "NotFound.js"
+2021/12/21 - 22:21 [INFO] - Core.setModel(): Core is setting model to NotFound.js
+2021/12/21 - 22:21 [INFO] - Core.NotFound - Model is modeling data to you.
+2021/12/21 - 22:21 [INFO] - Pandora.NotFound.dataCallback(): Core send the data, good kitie.

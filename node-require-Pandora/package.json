@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "koala": "^1.0.0"
+    "koala": "^1.0.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.12.0"
   }
 }

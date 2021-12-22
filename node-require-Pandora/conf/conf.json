@@ -7,7 +7,11 @@
             "logBkPath": "./logs/log_file_bk.log"
         },
         "coreHouse":{
-            "path": "127.0.0.1"
+            "db": "blackcat",
+            "user": "root",
+            "pass": "torto0132",
+            "host": "127.0.0.1",
+            "port": 3306
         }
     }
 }

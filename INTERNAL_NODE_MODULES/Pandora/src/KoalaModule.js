@@ -2,14 +2,14 @@
 
 module.exports = KoalaModule;
 
-function KoalaModule(pussyObj, routes) {
+function KoalaModule(tarBallObj, routes) {
     
     this.VERSION = "2021-12-19";
 
-    let logger = pussyObj.logger;
-    let http = pussyObj.http;
-    let app = pussyObj.koala;
-    let port = pussyObj.conf.port
+    let logger = tarBallObj.logger;
+    let http = tarBallObj.http;
+    let app = tarBallObj.koala;
+    let port = tarBallObj.conf.port
 
     let routesNames = new Array();
 
@@ -59,11 +59,12 @@ function KoalaModule(pussyObj, routes) {
             if (routesNames.indexOf(req.url) > -1) {
                 
                 let fileName = routes[routesNames.indexOf(req.url)];
+                routeObj.route = fileName;
 
                 logger.info(`Pandora.KoalaModule.requestResponse():About to load route "${fileName}"`);
 
                 let RouteRequire = require('./routes/' + fileName);
-                let routeRequire = new RouteRequire(routeObj, pussyObj);
+                let routeRequire = new RouteRequire(routeObj, tarBallObj);
 
             } else {
                 console.log("não achou " + req.url + " - " + routesNames);

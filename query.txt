@@ -1,0 +1,9 @@
+CREATE TABLE sells_place ( 
+    id int(20) NOT NULL AUTO_INCREMENT,
+    cidade varchar(20) NOT NULL,
+    latitude decimal(8,6),
+    longitude decimal(9,6),
+    primary key(id)
+);
+
+INSERT INTO sells_place (cidade, latitude, longitude) values ("Osasco", -23.537789, -46.762698);

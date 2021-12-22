@@ -2,30 +2,30 @@
 
 module.exports = ChangeOutputFile;
 
-function ChangeOutputFile(pussyObj) {
+function ChangeOutputFile(tarBallObj) {
 
     this.VERSION = '2021-12-17';
 
-    let fs = pussyObj.fs;
+    let fs = tarBallObj.fs;
 
-    let stats = fs.statSync(pussyObj.logFile)
+    let stats = fs.statSync(tarBallObj.logFile)
     let fileSizeInBytes = stats.size;
     
     let bkpFile = "./logs/log_file_bk.log"
 
-    if (fileSizeInBytes >= pussyObj.conf.log.maxSize) {
+    if (fileSizeInBytes >= tarBallObj.conf.log.maxSize) {
         //clean the old bkp file;
         fs.unlink(bkpFile, (err) => {
-            fs.rename(pussyObj.logFile, "./logs/log_file_bk.log", (err) => {
-                pussyObj.logFile = fs.writeFile("./logs/log_file.log", "", (err) => {
-                    return pussyObj.logFile;
+            fs.rename(tarBallObj.logFile, "./logs/log_file_bk.log", (err) => {
+                tarBallObj.logFile = fs.writeFile("./logs/log_file.log", "", (err) => {
+                    return tarBallObj.logFile;
                 })
             })
         });
 
-        return pussyObj.logFile;
+        return tarBallObj.logFile;
     }
 
-    return pussyObj.logFile;
+    return tarBallObj.logFile;
     
 } 

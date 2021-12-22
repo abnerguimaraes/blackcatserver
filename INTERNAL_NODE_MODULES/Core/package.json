@@ -1,0 +1,22 @@
+{
+  "name": "Core",
+  "version": "1.0.0-rc1 (2021-12-20)",
+  "description": "Core is most bealty cat in the world, so she is our 'model' :)",
+  "homepage": "TODO",
+  "main": "src/Core.js",
+  "keywords": [
+    "Model",
+    "Database"
+  ],
+  "license": "GPL3",
+  "author": {
+    "name": "Abner Guimarães",
+    "url": "https://abner-curriculo.web.app/"
+  },
+  "files": [
+    "src/Core.js",
+
+    "src/DatabaseConnection.js",
+    "models/NotFound.js"
+  ]
+}
