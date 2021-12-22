@@ -1,8 +1,8 @@
 "use strict"
 
-module.exports = NotFound;
+module.exports = GetSellsPlace;
 
-function NotFound(routeObj, tarBallObj) {
+function GetSellsPlace(routeObj, tarBallObj) {
     this.VERSION = "2021-12-19";
 
     let logger = tarBallObj.logger;
@@ -17,7 +17,7 @@ function NotFound(routeObj, tarBallObj) {
 
     //end of contraints
 
-    logger.info(`Pandora.NotFoud.js - Loaded a request.`);
+    logger.info(`Pandora.GetSellsPlace.js - Loaded a request.`);
 
     var objResp = new Object();
 
@@ -25,7 +25,7 @@ function NotFound(routeObj, tarBallObj) {
         
         if (err) {
 
-            logger.error(`Pandora.NotFound.dataCallback(): Something goes wrong, ${err}`);
+            logger.error(`Pandora.GetSellsPlace.dataCallback(): Something goes wrong, ${err}`);
             
             res.statusCode = 500;
             res.setHeader('Content-Type', 'text/plain; charset=UTF-8');
@@ -35,8 +35,8 @@ function NotFound(routeObj, tarBallObj) {
 
         } else {
         
-            logger.info(`Pandora.NotFound.dataCallback(): Core send the data, good kitie.`);
-            objResp = data[0];
+            logger.info(`Pandora.GetSellsPlace.dataCallback(): Core send the data, good kitie.`);
+            objResp = data;
 
             // send data back to client
             res.statusCode = 200;

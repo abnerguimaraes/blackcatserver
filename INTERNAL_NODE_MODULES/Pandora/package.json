@@ -16,6 +16,7 @@
     "src/PandoraServer.js",
 
     "src/KoalaModule.js",
-    "src/RoutesLoader.js"
+    "src/RoutesLoader.js",
+    "routes/GetSellsPlace.js"
   ]
 }

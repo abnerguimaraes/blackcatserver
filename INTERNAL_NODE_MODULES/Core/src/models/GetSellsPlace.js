@@ -2,9 +2,9 @@
 
 const Core = require("../Core");
 
-module.exports = NotFound;
+module.exports = GetSellsPlace;
 
-function NotFound(tarBallObj, conexao) {
+function GetSellsPlace(tarBallObj, conexao) {
     
     //constants
     this.VERSION = "2021-12-20";
@@ -17,9 +17,9 @@ function NotFound(tarBallObj, conexao) {
 
     //end of constants
 
-    logger.info(`Core.NotFound - Model is modeling data to you.`);
+    logger.info(`Core.GetSellsPlace - Model is modeling data to you.`);
 
-    const query = "SELECT * FROM sells";
+    const query = "SELECT * FROM sells_place";
 
     this.getData = function(dataCallback){
 

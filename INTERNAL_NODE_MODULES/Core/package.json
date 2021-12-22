@@ -17,6 +17,6 @@
     "src/Core.js",
 
     "src/DatabaseConnection.js",
-    "models/NotFound.js"
+    "models/GetSellsPlace.js"
   ]
 }

@@ -27,8 +27,4 @@ function Core(tarBallObj) {
         return model.getData(dataCallback);
     }
 
-    //routes models
-    // const NotFound = require('./models/NotFound');
-    // this.notFound = new NotFound(tarBallObj);
-
 }

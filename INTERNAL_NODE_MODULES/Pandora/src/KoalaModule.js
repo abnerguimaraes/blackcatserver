@@ -67,7 +67,12 @@ function KoalaModule(tarBallObj, routes) {
                 let routeRequire = new RouteRequire(routeObj, tarBallObj);
 
             } else {
-                console.log("não achou " + req.url + " - " + routesNames);
+                logger.error(`Pandora.KoalaModule.requestResponse(): Error, ${req.url} not found.`);
+
+                res.statusCode = 404;
+                res.setHeader('Content-Type', 'text/plain; charset=UTF-8');
+                res.write(`Sorry, ${req.url} was not found.`);
+                res.end();
             }
 
         }
