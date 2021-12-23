@@ -1,0 +1,123 @@
+2021/12/22 - 17:03 [INFO] - Dionisio - Initializing logger module.
+2021/12/22 - 17:03 [INFO] - Dionisio - Initializing logger module.
+2021/12/22 - 17:04 [INFO] - Dionisio - Initializing logger module.
+2021/12/22 - 23:16 [INFO] - Dionisio - Initializing logger module.
+2021/12/22 - 23:16 [INFO] - Dionisio.js - This cat is waking up
+2021/12/22 - 23:26 [INFO] - Dionisio - Initializing logger module.
+2021/12/22 - 23:26 [INFO] - Dionisio.js - This cat is waking up
+2021/12/22 - 23:26 [INFO] - Dionisio.KoalaModule.js - Preparing the server to listen the port 6600
+2021/12/22 - 23:26 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /
+2021/12/22 - 23:26 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /favicon.ico
+2021/12/22 - 23:26 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /
+2021/12/22 - 23:35 [INFO] - Dionisio - Initializing logger module.
+2021/12/22 - 23:35 [INFO] - Dionisio.js - This cat is waking up
+2021/12/22 - 23:35 [INFO] - Dionisio.KoalaModule.js - Preparing the server to listen the port 6600
+2021/12/22 - 23:35 [ERROR] - ../static_content/
+2021/12/22 - 23:36 [INFO] - Dionisio.js - This cat is waking up
+2021/12/22 - 23:36 [INFO] - Dionisio - Initializing logger module.
+2021/12/22 - 23:36 [INFO] - Dionisio.KoalaModule.js - Preparing the server to listen the port 6600
+2021/12/22 - 23:36 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /
+2021/12/22 - 23:43 [INFO] - Dionisio - Initializing logger module.
+2021/12/22 - 23:43 [INFO] - Dionisio.js - This cat is waking up
+2021/12/22 - 23:43 [INFO] - Dionisio.KoalaModule.js - Preparing the server to listen the port 6600
+2021/12/22 - 23:58 [INFO] - Dionisio - Initializing logger module.
+2021/12/22 - 23:58 [INFO] - Dionisio.js - This cat is waking up
+2021/12/22 - 23:58 [INFO] - Dionisio.KoalaModule.js - Preparing the server to listen the port 6600
+2021/12/22 - 23:59 [INFO] - Dionisio - Initializing logger module.
+2021/12/22 - 23:59 [INFO] - Dionisio.js - This cat is waking up
+2021/12/22 - 23:59 [INFO] - Dionisio.KoalaModule.js - Preparing the server to listen the port 6600
+2021/12/22 - 23:59 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /
+2021/12/22 - 23:59 [ERROR] - [object Object]
+2021/12/23 - 00:05 [INFO] - Dionisio - Initializing logger module.
+2021/12/23 - 00:05 [INFO] - Dionisio.js - This cat is waking up
+2021/12/23 - 00:05 [INFO] - Dionisio.KoalaModule.js - Preparing the server to listen the port 6600
+2021/12/23 - 00:06 [INFO] - Dionisio - Initializing logger module.
+2021/12/23 - 00:06 [INFO] - Dionisio.js - This cat is waking up
+2021/12/23 - 00:06 [INFO] - Dionisio.KoalaModule.js - Preparing the server to listen the port 6600
+2021/12/23 - 00:07 [INFO] - Dionisio - Initializing logger module.
+2021/12/23 - 00:07 [INFO] - Dionisio.js - This cat is waking up
+2021/12/23 - 00:07 [INFO] - Dionisio.KoalaModule.js - Preparing the server to listen the port 6600
+2021/12/23 - 00:07 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /
+2021/12/23 - 00:07 [ERROR] - [object Object]
+2021/12/23 - 00:07 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /css/index.css
+2021/12/23 - 00:07 [ERROR] - [object Object]
+2021/12/23 - 00:07 [ERROR] - [object Object]
+2021/12/23 - 00:07 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/index.js
+2021/12/23 - 00:07 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /
+2021/12/23 - 00:07 [ERROR] - [object Object]
+2021/12/23 - 00:07 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /css/index.css
+2021/12/23 - 00:07 [ERROR] - [object Object]
+2021/12/23 - 00:07 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/index.js
+2021/12/23 - 00:07 [ERROR] - [object Object]
+2021/12/23 - 00:09 [INFO] - Dionisio - Initializing logger module.
+2021/12/23 - 00:09 [INFO] - Dionisio.js - This cat is waking up
+2021/12/23 - 00:09 [INFO] - Dionisio.KoalaModule.js - Preparing the server to listen the port 6600
+2021/12/23 - 00:09 [INFO] - Dionisio - Initializing logger module.
+2021/12/23 - 00:09 [INFO] - Dionisio.js - This cat is waking up
+2021/12/23 - 00:09 [INFO] - Dionisio.KoalaModule.js - Preparing the server to listen the port 6600
+2021/12/23 - 00:09 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /index.html
+2021/12/23 - 00:09 [ERROR] - [object Object]
+2021/12/23 - 00:09 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/index.js
+2021/12/23 - 00:09 [ERROR] - [object Object]
+2021/12/23 - 00:09 [ERROR] - [object Object]
+2021/12/23 - 00:09 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /css/index.css
+2021/12/23 - 00:10 [INFO] - Dionisio - Initializing logger module.
+2021/12/23 - 00:10 [INFO] - Dionisio.js - This cat is waking up
+2021/12/23 - 00:10 [INFO] - Dionisio.KoalaModule.js - Preparing the server to listen the port 6600
+2021/12/23 - 00:10 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /index.html
+2021/12/23 - 00:10 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /css/index.css
+2021/12/23 - 00:10 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/index.js
+2021/12/23 - 00:10 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /index.html
+2021/12/23 - 00:10 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /css/index.css
+2021/12/23 - 00:10 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/index.js
+2021/12/23 - 00:10 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /index.html
+2021/12/23 - 00:10 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /css/index.css
+2021/12/23 - 00:10 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/index.js
+2021/12/23 - 00:10 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /index.html
+2021/12/23 - 00:10 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/index.js
+2021/12/23 - 00:10 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /css/index.css
+2021/12/23 - 00:18 [INFO] - Dionisio - Initializing logger module.
+2021/12/23 - 00:18 [INFO] - Dionisio.js - This cat is waking up
+2021/12/23 - 00:18 [INFO] - Dionisio.KoalaModule.js - Preparing the server to listen the port 6600
+2021/12/23 - 00:18 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /index.html
+2021/12/23 - 00:18 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /css/index.css
+2021/12/23 - 00:18 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/index.js
+2021/12/23 - 00:18 [INFO] - Dionisio - Initializing logger module.
+2021/12/23 - 00:18 [INFO] - Dionisio.KoalaModule.js - Preparing the server to listen the port 6600
+2021/12/23 - 00:18 [INFO] - Dionisio.js - This cat is waking up
+2021/12/23 - 00:18 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /index.html
+2021/12/23 - 00:18 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /css/index.css
+2021/12/23 - 00:18 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/index.js
+2021/12/23 - 00:19 [INFO] - Dionisio.js - This cat is waking up
+2021/12/23 - 00:19 [INFO] - Dionisio - Initializing logger module.
+2021/12/23 - 00:19 [INFO] - Dionisio.KoalaModule.js - Preparing the server to listen the port 6600
+2021/12/23 - 00:19 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /index.html
+2021/12/23 - 00:19 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /css/index.css
+2021/12/23 - 00:19 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/index.js
+2021/12/23 - 00:22 [INFO] - Dionisio - Initializing logger module.
+2021/12/23 - 00:22 [INFO] - Dionisio.js - This cat is waking up
+2021/12/23 - 00:22 [INFO] - Dionisio.KoalaModule.js - Preparing the server to listen the port 6600
+2021/12/23 - 00:22 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /index.html
+2021/12/23 - 00:22 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /css/index.css
+2021/12/23 - 00:22 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/index.js
+2021/12/23 - 00:22 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /favicon.ico
+2021/12/23 - 00:22 [ERROR] - Dionisio.KoalaModule.requestResponse(): error serving the file Error: ENOENT: no such file or directory, open './static_content//favicon.ico'
+2021/12/23 - 00:22 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /index.html
+2021/12/23 - 00:22 [ERROR] - Dionisio.KoalaModule.reqError(): Request with an error Error: aborted and Error: aborted
+    at connResetException (node:internal/errors:691:14)
+    at abortIncoming (node:_http_server:596:17)
+    at socketOnClose (node:_http_server:590:3)
+    at Socket.emit (node:events:402:35)
+    at TCP.<anonymous> (node:net:687:12)
+2021/12/23 - 00:22 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /css/index.css
+2021/12/23 - 00:22 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/index.js
+2021/12/23 - 00:22 [ERROR] - Dionisio.KoalaModule.requestResponse(): error serving the file Error: ENOENT: no such file or directory, open './static_content//favicon.ico'
+2021/12/23 - 00:22 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /favicon.ico
+2021/12/23 - 00:24 [INFO] - Dionisio - Initializing logger module.
+2021/12/23 - 00:24 [INFO] - Dionisio.js - This cat is waking up
+2021/12/23 - 00:24 [INFO] - Dionisio.KoalaModule.js - Preparing the server to listen the port 6600
+2021/12/23 - 00:24 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /index.html
+2021/12/23 - 00:24 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /css/index.css
+2021/12/23 - 00:24 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/index.js
+2021/12/23 - 00:24 [ERROR] - Dionisio.KoalaModule.requestResponse(): error serving the file, detail: "Error: ENOENT: no such file or directory, open './static_content//favicon.ico'"
+2021/12/23 - 00:24 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /favicon.ico

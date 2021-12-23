@@ -2,6 +2,7 @@
   "dependencies": {
     "koala": "^1.0.0",
     "mysql2": "^2.3.3",
-    "sequelize": "^6.12.0"
+    "sequelize": "^6.12.0",
+    "static-server": "^2.2.1"
   }
 }

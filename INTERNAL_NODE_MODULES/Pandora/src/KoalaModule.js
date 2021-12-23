@@ -42,7 +42,7 @@ function KoalaModule(tarBallObj, routes) {
         
         logger.warn(`Pandora.KoalaModule.requestResponse(): We got a request to ${req.url}`);
 
-        if (req.method != "POST") {
+        if (req.method != "POST" && req.method != "OPTIONS") {
             
             res.statusCode = 404;
             res.setHeader('Content-Type', 'text/plain; charset=UTF-8');

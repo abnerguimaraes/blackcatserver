@@ -1758,3 +1758,177 @@
 2021/12/21 - 23:25 [INFO] - Core.setModel(): Core is setting model to GetSellsPlace.js
 2021/12/21 - 23:25 [INFO] - Core.GetSellsPlace - Model is modeling data to you.
 2021/12/21 - 23:25 [INFO] - Pandora.GetSellsPlace.dataCallback(): Core send the data, good kitie.
+2021/12/21 - 23:25 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "GetSellsPlace.js"
+2021/12/21 - 23:25 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /getsellsplace
+2021/12/21 - 23:25 [INFO] - Core.setModel(): Core is setting model to GetSellsPlace.js
+2021/12/21 - 23:25 [INFO] - Pandora.GetSellsPlace.js - Loaded a request.
+2021/12/21 - 23:25 [INFO] - Core.GetSellsPlace - Model is modeling data to you.
+2021/12/21 - 23:25 [INFO] - Pandora.GetSellsPlace.dataCallback(): Core send the data, good kitie.
+2021/12/21 - 23:25 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "GetSellsPlace.js"
+2021/12/21 - 23:25 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /getsellsplace
+2021/12/21 - 23:25 [INFO] - Pandora.GetSellsPlace.js - Loaded a request.
+2021/12/21 - 23:25 [INFO] - Core.setModel(): Core is setting model to GetSellsPlace.js
+2021/12/21 - 23:25 [INFO] - Core.GetSellsPlace - Model is modeling data to you.
+2021/12/21 - 23:25 [INFO] - Pandora.GetSellsPlace.dataCallback(): Core send the data, good kitie.
+2021/12/21 - 23:25 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /getsellsplace
+2021/12/21 - 23:25 [ERROR] - Pandora.KoalaModule.requestResponse(): Client was a bad kittie trying to do a OPTIONS request, I scrached him away!
+2021/12/22 - 00:07 [INFO] - Pandora - Initializing logger module.
+2021/12/22 - 00:07 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/22 - 00:07 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: GetSellsPlace.js
+2021/12/22 - 00:07 [INFO] - Pandora.js - This cat is waking up
+2021/12/22 - 00:07 [INFO] - Core.js - This cat is waking up
+2021/12/22 - 00:07 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/22 - 00:07 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "GetSellsPlace.js"
+2021/12/22 - 00:07 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /getsellsplace
+2021/12/22 - 00:07 [INFO] - Pandora.GetSellsPlace.js - Loaded a request.
+2021/12/22 - 00:07 [INFO] - Core.setModel(): Core is setting model to GetSellsPlace.js
+2021/12/22 - 00:07 [INFO] - Core.GetSellsPlace - Model is modeling data to you.
+2021/12/22 - 00:07 [INFO] - Pandora.GetSellsPlace.dataCallback(): Core send the data, good kitie.
+2021/12/22 - 00:07 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /getsellsplace
+2021/12/22 - 00:07 [INFO] - Core.setModel(): Core is setting model to GetSellsPlace.js
+2021/12/22 - 00:07 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "GetSellsPlace.js"
+2021/12/22 - 00:07 [INFO] - Pandora.GetSellsPlace.js - Loaded a request.
+2021/12/22 - 00:07 [INFO] - Core.GetSellsPlace - Model is modeling data to you.
+2021/12/22 - 00:07 [INFO] - Pandora.GetSellsPlace.dataCallback(): Core send the data, good kitie.
+2021/12/22 - 00:07 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "GetSellsPlace.js"
+2021/12/22 - 00:07 [INFO] - Core.GetSellsPlace - Model is modeling data to you.
+2021/12/22 - 00:07 [INFO] - Pandora.GetSellsPlace.js - Loaded a request.
+2021/12/22 - 00:07 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /getsellsplace
+2021/12/22 - 00:07 [INFO] - Core.setModel(): Core is setting model to GetSellsPlace.js
+2021/12/22 - 00:07 [INFO] - Pandora.GetSellsPlace.dataCallback(): Core send the data, good kitie.
+2021/12/22 - 00:07 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "GetSellsPlace.js"
+2021/12/22 - 00:07 [INFO] - Core.GetSellsPlace - Model is modeling data to you.
+2021/12/22 - 00:07 [INFO] - Core.setModel(): Core is setting model to GetSellsPlace.js
+2021/12/22 - 00:07 [INFO] - Pandora.GetSellsPlace.js - Loaded a request.
+2021/12/22 - 00:07 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /getsellsplace
+2021/12/22 - 00:07 [INFO] - Pandora.GetSellsPlace.dataCallback(): Core send the data, good kitie.
+2021/12/22 - 07:12 [INFO] - Pandora - Initializing logger module.
+2021/12/22 - 07:12 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/22 - 07:12 [INFO] - Pandora.js - This cat is waking up
+2021/12/22 - 07:12 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: GetSellsPlace.js
+2021/12/22 - 07:12 [INFO] - Core.js - This cat is waking up
+2021/12/22 - 07:12 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/22 - 07:12 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /getsellsplace
+2021/12/22 - 07:12 [INFO] - Core.GetSellsPlace - Model is modeling data to you.
+2021/12/22 - 07:12 [INFO] - Pandora.GetSellsPlace.js - Loaded a request.
+2021/12/22 - 07:12 [INFO] - Core.setModel(): Core is setting model to GetSellsPlace.js
+2021/12/22 - 07:12 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "GetSellsPlace.js"
+2021/12/22 - 07:13 [INFO] - Pandora - Initializing logger module.
+2021/12/22 - 07:13 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: GetSellsPlace.js
+2021/12/22 - 07:13 [INFO] - Pandora.js - This cat is waking up
+2021/12/22 - 07:13 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/22 - 07:13 [INFO] - Core.js - This cat is waking up
+2021/12/22 - 07:13 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/22 - 07:13 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "GetSellsPlace.js"
+2021/12/22 - 07:13 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /getsellsplace
+2021/12/22 - 07:13 [INFO] - Core.setModel(): Core is setting model to GetSellsPlace.js
+2021/12/22 - 07:13 [INFO] - Core.GetSellsPlace - Model is modeling data to you.
+2021/12/22 - 07:13 [INFO] - Pandora.GetSellsPlace.js - Loaded a request.
+2021/12/22 - 07:14 [INFO] - Pandora - Initializing logger module.
+2021/12/22 - 07:14 [INFO] - Core.js - This cat is waking up
+2021/12/22 - 07:14 [INFO] - Pandora.js - This cat is waking up
+2021/12/22 - 07:14 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: GetSellsPlace.js
+2021/12/22 - 07:14 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/22 - 07:14 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/22 - 07:14 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "GetSellsPlace.js"
+2021/12/22 - 07:14 [INFO] - Core.GetSellsPlace - Model is modeling data to you.
+2021/12/22 - 07:14 [INFO] - Pandora.GetSellsPlace.js - Loaded a request.
+2021/12/22 - 07:14 [INFO] - Core.setModel(): Core is setting model to GetSellsPlace.js
+2021/12/22 - 07:14 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /getsellsplace
+2021/12/22 - 07:14 [INFO] - Pandora.GetSellsPlace.dataCallback(): Core send the data, good kitie.
+2021/12/22 - 07:14 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /getsellsplace
+2021/12/22 - 07:14 [INFO] - Core.setModel(): Core is setting model to GetSellsPlace.js
+2021/12/22 - 07:14 [INFO] - Pandora.GetSellsPlace.js - Loaded a request.
+2021/12/22 - 07:14 [INFO] - Core.GetSellsPlace - Model is modeling data to you.
+2021/12/22 - 07:14 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "GetSellsPlace.js"
+2021/12/22 - 07:14 [INFO] - Pandora.GetSellsPlace.dataCallback(): Core send the data, good kitie.
+2021/12/22 - 13:20 [INFO] - Pandora - Initializing logger module.
+2021/12/22 - 13:20 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/22 - 13:20 [INFO] - Pandora.js - This cat is waking up
+2021/12/22 - 13:20 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: GetSellsPlace.js
+2021/12/22 - 13:20 [INFO] - Core.js - This cat is waking up
+2021/12/22 - 13:20 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/22 - 13:20 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /getsellsplace
+2021/12/22 - 13:20 [INFO] - Core.GetSellsPlace - Model is modeling data to you.
+2021/12/22 - 13:20 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "GetSellsPlace.js"
+2021/12/22 - 13:20 [INFO] - Pandora.GetSellsPlace.js - Loaded a request.
+2021/12/22 - 13:20 [INFO] - Core.setModel(): Core is setting model to GetSellsPlace.js
+2021/12/22 - 13:20 [INFO] - Pandora.GetSellsPlace.dataCallback(): Core send the data, good kitie.
+2021/12/22 - 16:37 [INFO] - Pandora - Initializing logger module.
+2021/12/22 - 16:37 [INFO] - Core.js - This cat is waking up
+2021/12/22 - 16:37 [INFO] - Pandora.js - This cat is waking up
+2021/12/22 - 16:37 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: GetSellsPlace.js
+2021/12/22 - 16:37 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/22 - 16:37 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/23 - 00:11 [INFO] - Pandora - Initializing logger module.
+2021/12/23 - 00:11 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/23 - 00:11 [INFO] - Pandora.js - This cat is waking up
+2021/12/23 - 00:11 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: GetSellsPlace.js
+2021/12/23 - 00:11 [INFO] - Core.js - This cat is waking up
+2021/12/23 - 00:11 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/23 - 00:11 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /getsellsplace
+2021/12/23 - 00:11 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "GetSellsPlace.js"
+2021/12/23 - 00:11 [INFO] - Pandora.GetSellsPlace.js - Loaded a request.
+2021/12/23 - 00:11 [INFO] - Core.setModel(): Core is setting model to GetSellsPlace.js
+2021/12/23 - 00:11 [INFO] - Core.GetSellsPlace - Model is modeling data to you.
+2021/12/23 - 00:11 [INFO] - Pandora.GetSellsPlace.dataCallback(): Core send the data, good kitie.
+2021/12/23 - 00:11 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "GetSellsPlace.js"
+2021/12/23 - 00:11 [INFO] - Core.setModel(): Core is setting model to GetSellsPlace.js
+2021/12/23 - 00:11 [INFO] - Core.GetSellsPlace - Model is modeling data to you.
+2021/12/23 - 00:11 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /getsellsplace
+2021/12/23 - 00:11 [INFO] - Pandora.GetSellsPlace.js - Loaded a request.
+2021/12/23 - 00:11 [INFO] - Pandora.GetSellsPlace.dataCallback(): Core send the data, good kitie.
+2021/12/23 - 00:17 [INFO] - Pandora - Initializing logger module.
+2021/12/23 - 00:17 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/23 - 00:17 [INFO] - Core.js - This cat is waking up
+2021/12/23 - 00:17 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: GetSellsPlace.js
+2021/12/23 - 00:17 [INFO] - Pandora.js - This cat is waking up
+2021/12/23 - 00:17 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/23 - 00:17 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "GetSellsPlace.js"
+2021/12/23 - 00:17 [INFO] - Core.GetSellsPlace - Model is modeling data to you.
+2021/12/23 - 00:17 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /getsellsplace
+2021/12/23 - 00:17 [INFO] - Core.setModel(): Core is setting model to GetSellsPlace.js
+2021/12/23 - 00:17 [INFO] - Pandora.GetSellsPlace.js - Loaded a request.
+2021/12/23 - 00:17 [INFO] - Pandora.GetSellsPlace.dataCallback(): Core send the data, good kitie.
+2021/12/23 - 00:19 [INFO] - Pandora - Initializing logger module.
+2021/12/23 - 00:19 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/23 - 00:19 [INFO] - Core.js - This cat is waking up
+2021/12/23 - 00:19 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: GetSellsPlace.js
+2021/12/23 - 00:19 [INFO] - Pandora.js - This cat is waking up
+2021/12/23 - 00:19 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/23 - 00:19 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "GetSellsPlace.js"
+2021/12/23 - 00:19 [INFO] - Pandora.GetSellsPlace.js - Loaded a request.
+2021/12/23 - 00:19 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /getsellsplace
+2021/12/23 - 00:19 [INFO] - Core.setModel(): Core is setting model to GetSellsPlace.js
+2021/12/23 - 00:19 [INFO] - Core.GetSellsPlace - Model is modeling data to you.
+2021/12/23 - 00:19 [INFO] - Pandora.GetSellsPlace.dataCallback(): Core send the data, good kitie.
+2021/12/23 - 00:19 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /getsellsplace
+2021/12/23 - 00:19 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "GetSellsPlace.js"
+2021/12/23 - 00:19 [INFO] - Pandora.GetSellsPlace.js - Loaded a request.
+2021/12/23 - 00:19 [INFO] - Core.setModel(): Core is setting model to GetSellsPlace.js
+2021/12/23 - 00:19 [INFO] - Core.GetSellsPlace - Model is modeling data to you.
+2021/12/23 - 00:19 [INFO] - Pandora.GetSellsPlace.dataCallback(): Core send the data, good kitie.
+2021/12/23 - 00:19 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "GetSellsPlace.js"
+2021/12/23 - 00:19 [INFO] - Core.GetSellsPlace - Model is modeling data to you.
+2021/12/23 - 00:19 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /getsellsplace
+2021/12/23 - 00:19 [INFO] - Pandora.GetSellsPlace.js - Loaded a request.
+2021/12/23 - 00:19 [INFO] - Core.setModel(): Core is setting model to GetSellsPlace.js
+2021/12/23 - 00:19 [INFO] - Pandora.GetSellsPlace.dataCallback(): Core send the data, good kitie.
+2021/12/23 - 00:23 [INFO] - Pandora - Initializing logger module.
+2021/12/23 - 00:23 [INFO] - Pandora.KoalaModule.js - Preparing the server to listen the port 6500
+2021/12/23 - 00:23 [INFO] - Core.js - This cat is waking up
+2021/12/23 - 00:23 [INFO] - Pandora.RoutesLoader.js - Found this paths to the cat: GetSellsPlace.js
+2021/12/23 - 00:23 [INFO] - Pandora.js - This cat is waking up
+2021/12/23 - 00:23 [INFO] - Core.DatabaseConnection.connectToDatabase(): Core is connected with database
+2021/12/23 - 00:23 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "GetSellsPlace.js"
+2021/12/23 - 00:23 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /getsellsplace
+2021/12/23 - 00:23 [INFO] - Core.setModel(): Core is setting model to GetSellsPlace.js
+2021/12/23 - 00:23 [INFO] - Pandora.GetSellsPlace.js - Loaded a request.
+2021/12/23 - 00:23 [INFO] - Core.GetSellsPlace - Model is modeling data to you.
+2021/12/23 - 00:23 [INFO] - Pandora.GetSellsPlace.dataCallback(): Core send the data, good kitie.
+2021/12/23 - 00:23 [INFO] - Pandora.KoalaModule.requestResponse():About to load route "GetSellsPlace.js"
+2021/12/23 - 00:23 [INFO] - Pandora.GetSellsPlace.js - Loaded a request.
+2021/12/23 - 00:23 [WARN] - Pandora.KoalaModule.requestResponse(): We got a request to /getsellsplace
+2021/12/23 - 00:23 [INFO] - Core.GetSellsPlace - Model is modeling data to you.
+2021/12/23 - 00:23 [INFO] - Core.setModel(): Core is setting model to GetSellsPlace.js
+2021/12/23 - 00:23 [INFO] - Pandora.GetSellsPlace.dataCallback(): Core send the data, good kitie.

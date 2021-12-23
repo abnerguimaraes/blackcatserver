@@ -1,0 +1,18 @@
+{
+  "name": "Dionisio",
+  "version": "1.0.0-rc1 (2021-12-19)",
+  "description": "Simple Server",
+  "homepage": "TODO",
+  "main": "src/Dionisio.js",
+  "keywords": [
+    "static_content"
+  ],
+  "license": "GPL3",
+  "author": {
+    "name": "Abner Guimarães",
+    "url": "https://abner-curriculo.web.app/"
+  },
+  "files": [
+    "src/Dionisio.js"
+  ]
+}

@@ -41,6 +41,9 @@ function GetSellsPlace(routeObj, tarBallObj) {
             // send data back to client
             res.statusCode = 200;
             res.setHeader('Content-Type', 'text/plain; charset=UTF-8');
+            res.setHeader('Access-Control-Allow-Origin', '*');
+            res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PATCH, PUT, DELETE, OPTIONS');
+            res.setHeader('Access-Control-Allow-Headers', 'Origin, Content-Type, X-Auth-Token');
             res.write(JSON.stringify(objResp));
             res.end();
             
