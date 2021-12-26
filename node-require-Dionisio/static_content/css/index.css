@@ -1,0 +1,17 @@
+.title--name__color {
+    color: red;
+}
+
+.mapouter {
+    position:relative;
+    text-align:right;
+    height:500px;
+    width:600px;
+}
+
+.tt_map {
+    overflow:hidden;
+    background:none!important;
+    height:500px;
+    width:600px;
+}

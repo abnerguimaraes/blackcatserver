@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@googlemaps/markerclusterer": "^1.0.18",
     "koala": "^1.0.0"
   }
 }

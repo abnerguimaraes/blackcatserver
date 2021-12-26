@@ -31,9 +31,64 @@ function KoalaModule(tarBallObj) {
         logger.warn(`Dionisio.KoalaModule.requestResponse(): We got a request to ${req.url}`);
 
         try {
-            let staticRet = fs.readFileSync(static_path + req.url, 'utf8');
+
+            let isJavaScript = false;
+            let isNodeModule = false;
+            let isCss = false;
+
+            if (req.url.indexOf(".css") != -1) {
+                isCss = true;
+            }
+
+            if (req.url.indexOf(".js") != -1) {
+                
+                isJavaScript = true;
+           
+            }
+
+            if (req.url.indexOf("node_modules") != -1) {
+
+                isNodeModule = true;
+
+            }
+
+            let staticRet = null;
+
+            if (isNodeModule) {
+                console.log(" eh node") 
+                
+                let path = "."+ req.url;
+
+                staticRet = fs.readFileSync(path, 'utf8');
+                // staticRet = staticRet.slice(1, staticRet.length);
+
+                console.log( "aaaa " +  staticRet)
+            } else {
+                staticRet = fs.readFileSync(static_path + req.url, 'utf8');
+            }
+
+            
+            
             res.statusCode = 200;
-            res.setHeader('Content-Type', 'text/html; charset=UTF-8');
+
+            if (isJavaScript) {
+
+                res.setHeader('Content-Type', 'text/javascript; charset=UTF-8');
+            
+            } else if (isCss) { 
+
+                res.setHeader('Content-Type', 'text/css; charset=UTF-8');
+
+                
+            } else {
+             
+                res.setHeader('Content-Type', 'text/html; charset=UTF-8');
+            
+            }
+            
+            // res.setHeader("Access-Control-Allow-Origin", "*"); // update to match the domain you will make the request from
+            // res.setHeader("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+
             res.write(staticRet);
             res.end();
         }
