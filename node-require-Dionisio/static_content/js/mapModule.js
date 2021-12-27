@@ -75,7 +75,7 @@ var Mapa = function() {
             disableAutoPan: true
         });
 
-        const labels = "ABCD";
+        const labels = ["BLA", "BLA", "BLA", "BLA"];
 
         const markers = loc.map((position, i) => {
             const label = labels[i % labels.length];

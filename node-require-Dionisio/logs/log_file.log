@@ -3214,3 +3214,95 @@
 2021/12/26 - 10:46 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/mapModule.js
 2021/12/26 - 10:46 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /favicon.ico
 2021/12/26 - 10:46 [ERROR] - Dionisio.KoalaModule.requestResponse(): error serving the file, detail: "Error: ENOENT: no such file or directory, open './static_content//favicon.ico'"
+2021/12/26 - 10:46 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /index.html
+2021/12/26 - 10:46 [ERROR] - Dionisio.KoalaModule.reqError(): Request with an error Error: aborted and Error: aborted
+    at connResetException (node:internal/errors:691:14)
+    at abortIncoming (node:_http_server:596:17)
+    at socketOnClose (node:_http_server:590:3)
+    at Socket.emit (node:events:402:35)
+    at TCP.<anonymous> (node:net:687:12)
+2021/12/26 - 10:46 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /css/index.css
+2021/12/26 - 10:46 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/mapModule.js
+2021/12/26 - 10:46 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/index.js
+2021/12/26 - 10:46 [ERROR] - Dionisio.KoalaModule.requestResponse(): error serving the file, detail: "Error: ENOENT: no such file or directory, open './static_content//favicon.ico'"
+2021/12/26 - 10:46 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /favicon.ico
+2021/12/26 - 10:46 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /index.html
+2021/12/26 - 10:46 [ERROR] - Dionisio.KoalaModule.reqError(): Request with an error Error: aborted and Error: aborted
+    at connResetException (node:internal/errors:691:14)
+    at abortIncoming (node:_http_server:596:17)
+    at socketOnClose (node:_http_server:590:3)
+    at Socket.emit (node:events:402:35)
+    at TCP.<anonymous> (node:net:687:12)
+2021/12/26 - 10:46 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /css/index.css
+2021/12/26 - 10:46 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/index.js
+2021/12/26 - 10:46 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/mapModule.js
+2021/12/26 - 10:46 [ERROR] - Dionisio.KoalaModule.requestResponse(): error serving the file, detail: "Error: ENOENT: no such file or directory, open './static_content//favicon.ico'"
+2021/12/26 - 10:46 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /favicon.ico
+2021/12/27 - 08:25 [INFO] - Dionisio - Initializing logger module.
+2021/12/27 - 08:25 [INFO] - Dionisio.js - This cat is waking up
+2021/12/27 - 08:25 [INFO] - Dionisio.KoalaModule.js - Preparing the server to listen the port 6600
+2021/12/27 - 08:25 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /index.html
+2021/12/27 - 08:25 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /css/index.css
+2021/12/27 - 08:25 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/index.js
+2021/12/27 - 08:25 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/mapModule.js
+2021/12/27 - 08:25 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /favicon.ico
+2021/12/27 - 08:25 [ERROR] - Dionisio.KoalaModule.requestResponse(): error serving the file, detail: "Error: ENOENT: no such file or directory, open './static_content//favicon.ico'"
+2021/12/27 - 08:25 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /index.html
+2021/12/27 - 08:25 [ERROR] - Dionisio.KoalaModule.reqError(): Request with an error Error: aborted and Error: aborted
+    at connResetException (node:internal/errors:691:14)
+    at abortIncoming (node:_http_server:596:17)
+    at socketOnClose (node:_http_server:590:3)
+    at Socket.emit (node:events:402:35)
+    at TCP.<anonymous> (node:net:687:12)
+2021/12/27 - 08:25 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /css/index.css
+2021/12/27 - 08:25 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/mapModule.js
+2021/12/27 - 08:25 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/index.js
+2021/12/27 - 08:25 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /favicon.ico
+2021/12/27 - 08:25 [ERROR] - Dionisio.KoalaModule.requestResponse(): error serving the file, detail: "Error: ENOENT: no such file or directory, open './static_content//favicon.ico'"
+2021/12/27 - 08:25 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /index.html
+2021/12/27 - 08:25 [ERROR] - Dionisio.KoalaModule.reqError(): Request with an error Error: aborted and Error: aborted
+    at connResetException (node:internal/errors:691:14)
+    at abortIncoming (node:_http_server:596:17)
+    at socketOnClose (node:_http_server:590:3)
+    at Socket.emit (node:events:402:35)
+    at TCP.<anonymous> (node:net:687:12)
+2021/12/27 - 08:25 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /css/index.css
+2021/12/27 - 08:25 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/index.js
+2021/12/27 - 08:25 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/mapModule.js
+2021/12/27 - 08:25 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /favicon.ico
+2021/12/27 - 08:25 [ERROR] - Dionisio.KoalaModule.requestResponse(): error serving the file, detail: "Error: ENOENT: no such file or directory, open './static_content//favicon.ico'"
+2021/12/27 - 08:25 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /index.html
+2021/12/27 - 08:25 [ERROR] - Dionisio.KoalaModule.reqError(): Request with an error Error: aborted and Error: aborted
+    at connResetException (node:internal/errors:691:14)
+    at abortIncoming (node:_http_server:596:17)
+    at socketOnClose (node:_http_server:590:3)
+    at Socket.emit (node:events:402:35)
+    at TCP.<anonymous> (node:net:687:12)
+2021/12/27 - 08:25 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /css/index.css
+2021/12/27 - 08:25 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/index.js
+2021/12/27 - 08:25 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/mapModule.js
+2021/12/27 - 08:25 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /favicon.ico
+2021/12/27 - 08:25 [ERROR] - Dionisio.KoalaModule.requestResponse(): error serving the file, detail: "Error: ENOENT: no such file or directory, open './static_content//favicon.ico'"
+2021/12/27 - 16:09 [INFO] - Dionisio - Initializing logger module.
+2021/12/27 - 16:09 [INFO] - Dionisio.js - This cat is waking up
+2021/12/27 - 16:09 [INFO] - Dionisio.KoalaModule.js - Preparing the server to listen the port 6600
+2021/12/27 - 16:09 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /favicon.ico
+2021/12/27 - 16:09 [ERROR] - Dionisio.KoalaModule.requestResponse(): error serving the file, detail: "Error: ENOENT: no such file or directory, open './static_content//favicon.ico'"
+2021/12/27 - 16:09 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /index.html
+2021/12/27 - 16:09 [ERROR] - Dionisio.KoalaModule.reqError(): Request with an error Error: aborted and Error: aborted
+    at connResetException (node:internal/errors:691:14)
+    at abortIncoming (node:_http_server:596:17)
+    at socketOnClose (node:_http_server:590:3)
+    at Socket.emit (node:events:402:35)
+    at TCP.<anonymous> (node:net:687:12)
+2021/12/27 - 16:09 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /css/index.css
+2021/12/27 - 16:09 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/index.js
+2021/12/27 - 16:09 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /js/mapModule.js
+2021/12/27 - 16:09 [WARN] - Dionisio.KoalaModule.requestResponse(): We got a request to /favicon.ico
+2021/12/27 - 16:09 [ERROR] - Dionisio.KoalaModule.requestResponse(): error serving the file, detail: "Error: ENOENT: no such file or directory, open './static_content//favicon.ico'"
+2021/12/27 - 16:09 [ERROR] - Dionisio.KoalaModule.reqError(): Request with an error Error: aborted and Error: aborted
+    at connResetException (node:internal/errors:691:14)
+    at abortIncoming (node:_http_server:596:17)
+    at socketOnClose (node:_http_server:590:3)
+    at Socket.emit (node:events:402:35)
+    at TCP.<anonymous> (node:net:687:12)
