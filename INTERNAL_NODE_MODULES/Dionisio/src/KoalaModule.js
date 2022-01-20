@@ -37,7 +37,9 @@ function KoalaModule(tarBallObj) {
             let isCss = false;
 
             if (req.url.indexOf(".css") != -1) {
+
                 isCss = true;
+
             }
 
             if (req.url.indexOf(".js") != -1) {
@@ -62,12 +64,9 @@ function KoalaModule(tarBallObj) {
                 staticRet = fs.readFileSync(path, 'utf8');
                 // staticRet = staticRet.slice(1, staticRet.length);
 
-                console.log( "aaaa " +  staticRet)
             } else {
                 staticRet = fs.readFileSync(static_path + req.url, 'utf8');
             }
-
-            
             
             res.statusCode = 200;
 

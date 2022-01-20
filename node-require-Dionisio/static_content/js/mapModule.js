@@ -46,8 +46,8 @@ var Mapa = function() {
                 
                     }
 
-                    carregaMapa(locations);
-                
+                    //carregaMapa(locations); google
+                    carregaMapa(locations) //leaflej
                 }
             }
         
@@ -60,34 +60,58 @@ var Mapa = function() {
 
     }
 
-    var carregaMapa = function(loc) {
+    //leaf
+    var carregaMapa = function(locations){
+        var map = L.map('map').setView([-23.538215, -46.762171], 13);
 
-        map = new google.maps.Map(document.getElementById("tt_map"), {
-            zoom: 15,
-            center : {
-                lat: -23.538215,
-                lng: -46.762171
-            }
-        });
+        L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+            attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+            maxZoom: 18,
+            id: 'mapbox/streets-v11',
+            tileSize: 512,
+            zoomOffset: -1,
+            accessToken: 'pk.eyJ1IjoiYWJuZXJndWltYXJhZXMiLCJhIjoiY2t5bWFtOGhtMDU2bzJ0bnNkbmE5Zmw3NiJ9.KLgHWT1arYZtrXBFYs2gpA'
+        }).addTo(map);
 
-        const infoWindow = new google.maps.InfoWindow({
-            content: "",
-            disableAutoPan: true
-        });
+        //api traz os pontos: 
 
-        const labels = ["BLA", "BLA", "BLA", "BLA"];
-
-        const markers = loc.map((position, i) => {
-            const label = labels[i % labels.length];
-            const marker = new google.maps.Marker({
-                position,
-                label
-            });
-            return marker;
-        });
-
-        new markerClusterer.MarkerClusterer({ map, markers });
+        locations.map(function(item, index) {
+            L.marker([item.lat, item.lng], {
+                title: item.cidade,
+            }).addTo(map)
+        })
     }
+
+
+    //google
+    // var carregaMapa = function(loc) {
+
+    //     map = new google.maps.Map(document.getElementById("tt_map"), {
+    //         zoom: 15,
+    //         center : {
+    //             lat: -23.538215,
+    //             lng: -46.762171
+    //         }
+    //     });
+
+    //     const infoWindow = new google.maps.InfoWindow({
+    //         content: "",
+    //         disableAutoPan: true
+    //     });
+
+    //     const labels = ["BLA", "BLA", "BLA", "BLA"];
+
+    //     const markers = loc.map((position, i) => {
+    //         const label = labels[i % labels.length];
+    //         const marker = new google.maps.Marker({
+    //             position,
+    //             label
+    //         });
+    //         return marker;
+    //     });
+
+    //     new markerClusterer.MarkerClusterer({ map, markers });
+    // }
 
     initialize();
 
